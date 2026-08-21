@@ -320,3 +320,4 @@ For issues and questions:
 
 **Built with ❤️ using React + Supabase + Vite**
 "# MAKE-UP-" 
+"# MAKE-UP-" 
